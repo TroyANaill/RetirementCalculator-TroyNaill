@@ -12,7 +12,6 @@ Author: Troy Naill
 - Compounding options are: 1 = Annually, 2 = Monthly, 3 = Daily.
 - Annual contribution increases are applied at the start of each new year.
 
-## Tested Compounding Options
-- Annually (1)
-- Monthly (2)
-- Daily (3)
+## Testing
+- I tested this program by entering in various options for each entry and ensuring the output was correct.
+- I also tested every example given for the assignment.
